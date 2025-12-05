@@ -8,7 +8,8 @@ public class Program
     {
         // AulaClasses();
         // SomenteLeitura();
-        Heranca();
+        // Heranca();
+        Record();
     }
 
     private static void AulaClasses()
@@ -43,5 +44,17 @@ public class Program
         pessoaFisica.imprimirCPF();
 
     }
+
+    private static void Record()
+    {
+        var curso1 = new Cadastro.Curso(1, "Curso");
+        var curso2 = curso1 with {Descricao = "Teste novo"};
+
+        System.Console.WriteLine(curso1.Descricao);
+        System.Console.WriteLine(curso2.Descricao);
+
+    }
+
+
 }
 

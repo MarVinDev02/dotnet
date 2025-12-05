@@ -47,10 +47,10 @@ public class Pessoa
 
     public void ImprimirDados()
     {
-        System.Console.WriteLine(Id);
-        System.Console.WriteLine(Endereco);
-        System.Console.WriteLine(Cidade);
-        System.Console.WriteLine(Cep);
+        Console.WriteLine(Id);
+        Console.WriteLine(Endereco);
+        Console.WriteLine(Cidade);
+        Console.WriteLine(Cep);
     }
 }
 
@@ -60,6 +60,14 @@ public class PessoaFisica : Pessoa
 
     public void imprimirCPF()
     {
-        System.Console.WriteLine(CPF);
+        Console.WriteLine(CPF);
     }
+}
+
+public record Curso (int Id, string Descricao);
+
+public class CursoTeste()
+{
+    public int Id { get; set; }
+    public string Descricao { get; set; }
 }

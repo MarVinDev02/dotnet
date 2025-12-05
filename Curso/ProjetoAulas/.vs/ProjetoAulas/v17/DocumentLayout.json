@@ -1,10 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Marcus\\Desktop\\dotnet\\Curso\\ProjetoAulas\\",
+  "WorkspaceRootPath": "C:\\Users\\Marcus\\Desktop\\github\\dotnet\\Curso\\ProjetoAulas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{40DCFECD-2CAC-B5EA-EA0E-63D46B249F09}|ProjetoAulas.csproj|c:\\users\\marcus\\desktop\\dotnet\\curso\\projetoaulas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40DCFECD-2CAC-B5EA-EA0E-63D46B249F09}|ProjetoAulas.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Marcus\\Desktop\\github\\dotnet\\Curso\\ProjetoAulas\\Modulo9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Modulo9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Marcus\\Desktop\\github\\dotnet\\Curso\\ProjetoAulas\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Modulo9.cs",
+              "DocumentMoniker": "C:\\Users\\Marcus\\Desktop\\github\\dotnet\\Curso\\ProjetoAulas\\Modulo9.cs",
+              "RelativeDocumentMoniker": "Modulo9.cs",
+              "ToolTip": "C:\\Users\\Marcus\\Desktop\\github\\dotnet\\Curso\\ProjetoAulas\\Modulo9.cs",
+              "RelativeToolTip": "Modulo9.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T19:07:02.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Marcus\\Desktop\\dotnet\\Curso\\ProjetoAulas\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Marcus\\Desktop\\github\\dotnet\\Curso\\ProjetoAulas\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Marcus\\Desktop\\dotnet\\Curso\\ProjetoAulas\\Program.cs*",
-              "RelativeToolTip": "Program.cs*",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Marcus\\Desktop\\github\\dotnet\\Curso\\ProjetoAulas\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-20T04:04:24.347Z",
               "EditorCaption": ""
