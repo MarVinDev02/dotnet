@@ -9,7 +9,9 @@ public class Program
         // AulaClasses();
         // SomenteLeitura();
         // Heranca();
-        Record();
+        // Record();
+        Inteface();
+
     }
 
     private static void AulaClasses()
@@ -48,11 +50,27 @@ public class Program
     private static void Record()
     {
         var curso1 = new Cadastro.Curso(1, "Curso");
-        var curso2 = curso1 with {Descricao = "Teste novo"};
+        var curso2 = curso1 with { Descricao = "Teste novo" };
 
-        System.Console.WriteLine(curso1.Descricao);
-        System.Console.WriteLine(curso2.Descricao);
+        Console.WriteLine(curso1.Descricao);
+        Console.WriteLine(curso2.Descricao);
 
+    }
+
+    public static void Inteface()
+    {
+        var notificacaoCliente = new Cadastro.NotificacaoCliente();
+        notificacaoCliente.Descricao = "Notificacao para o cliente";
+        notificacaoCliente.Notificar();
+
+        var notificacaoFuncionario = new Cadastro.NotificacaoFuncionario();
+        notificacaoFuncionario.Descricao = "Notificacao para o funcionário.";
+        notificacaoFuncionario.Notificar();
+        notificacaoFuncionario.NotificarOutros();
+
+        Cadastro.INotificacao notificacao = new Cadastro.NotificacaoFuncionario();
+
+        notificacao.Notificar();
     }
 
 
