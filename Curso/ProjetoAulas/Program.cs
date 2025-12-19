@@ -1,6 +1,4 @@
-﻿using System;
-using Cadastro;
-namespace Application;
+﻿namespace Application;
 
 public class Program
 {
@@ -10,8 +8,18 @@ public class Program
         // SomenteLeitura();
         // Heranca();
         // Record();
-        Inteface();
+        //Inteface();
+        // Conversores();
+        // ManipulandoString();
+        TrabalhandoComDatas();
 
+    }
+
+    private static void Conversores()
+    {
+        var conversores = new Conversores.Conversor();
+        //conversores.ConvertAndParse();
+        conversores.TryParse();
     }
 
     private static void AulaClasses()
@@ -55,6 +63,9 @@ public class Program
         Console.WriteLine(curso1.Descricao);
         Console.WriteLine(curso2.Descricao);
 
+        var comparativo = curso1 == curso2 ? "Sim" : "Não";
+        System.Console.WriteLine(comparativo);
+
     }
 
     public static void Inteface()
@@ -73,6 +84,17 @@ public class Program
         notificacao.Notificar();
     }
 
+    public static void ManipulandoString()
+    {
+        var letraMinuscula = new Modulo10.TrabalhandoComStrings();
+        letraMinuscula.ConverterLetrasMinusculas();
+    }
 
+
+    public static void TrabalhandoComDatas()
+    {
+        var trabalhandoComDatas = new Modulo11.ManipulandoDatas();
+        trabalhandoComDatas.AulaSubtraindoDatas();
+    }
 }
 

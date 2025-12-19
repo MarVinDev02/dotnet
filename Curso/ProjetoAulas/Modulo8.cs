@@ -15,7 +15,7 @@ public class Produto
 
     public string Descricao { get; set; }
 
-    public readonly int Estoque;  //Somente leitura. Não posso atribuir valor a ela. 
+    public readonly int Estoque;  //Somente leitura. Não posso atribuir valor a ela. (apenas pelo construtor)
 
     public Produto()
     {
@@ -54,7 +54,7 @@ public class Pessoa
     }
 }
 
-public class PessoaFisica : Pessoa
+public class PessoaFisica : Pessoa 
 {
     public string CPF { get; set; }
 
@@ -65,6 +65,11 @@ public class PessoaFisica : Pessoa
 }
 
 public record Curso(int Id, string Descricao);
+public sealed class Algo
+{
+    public string Descricao { get; set; }
+}
+
 
 public class CursoTeste()
 {
@@ -84,7 +89,7 @@ public class NotificacaoCliente : INotificacao
 
     public void Notificar()
     {
-        System.Console.WriteLine("Notificando Cliente!");
+        Console.WriteLine("Notificando Cliente!");
     }
 }
 
@@ -94,12 +99,12 @@ public class NotificacaoFuncionario : INotificacao
 
     public void Notificar()
     {
-        System.Console.WriteLine("Notificando Funcionário!");
+        Console.WriteLine("Notificando Funcionário!");
     }
 
     public void NotificarOutros()
     {
-        System.Console.WriteLine("Notificando Outros!");
+        Console.WriteLine("Notificando Outros!");
     }
 }
 
