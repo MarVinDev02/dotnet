@@ -1,0 +1,15 @@
+C:\workspace\dotnet\Curso\Curso\bin\Debug\net8.0\Curso.exe
+C:\workspace\dotnet\Curso\Curso\bin\Debug\net8.0\Curso.deps.json
+C:\workspace\dotnet\Curso\Curso\bin\Debug\net8.0\Curso.runtimeconfig.json
+C:\workspace\dotnet\Curso\Curso\bin\Debug\net8.0\Curso.dll
+C:\workspace\dotnet\Curso\Curso\bin\Debug\net8.0\Curso.pdb
+C:\workspace\dotnet\Curso\Curso\obj\Debug\net8.0\Curso.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\dotnet\Curso\Curso\obj\Debug\net8.0\Curso.AssemblyInfoInputs.cache
+C:\workspace\dotnet\Curso\Curso\obj\Debug\net8.0\Curso.AssemblyInfo.cs
+C:\workspace\dotnet\Curso\Curso\obj\Debug\net8.0\Curso.csproj.CoreCompileInputs.cache
+C:\workspace\dotnet\Curso\Curso\obj\Debug\net8.0\Curso.sourcelink.json
+C:\workspace\dotnet\Curso\Curso\obj\Debug\net8.0\Curso.dll
+C:\workspace\dotnet\Curso\Curso\obj\Debug\net8.0\refint\Curso.dll
+C:\workspace\dotnet\Curso\Curso\obj\Debug\net8.0\Curso.pdb
+C:\workspace\dotnet\Curso\Curso\obj\Debug\net8.0\Curso.genruntimeconfig.cache
+C:\workspace\dotnet\Curso\Curso\obj\Debug\net8.0\ref\Curso.dll
