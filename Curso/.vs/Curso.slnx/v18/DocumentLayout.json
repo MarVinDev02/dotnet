@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\workspace\\dotnet\\Curso\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{86A98785-C8A1-A598-9375-8111CDF6981F}|Curso\\Curso.csproj|c:\\workspace\\dotnet\\curso\\curso\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86A98785-C8A1-A598-9375-8111CDF6981F}|Curso\\Curso.csproj|solutionrelative:curso\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{86A98785-C8A1-A598-9375-8111CDF6981F}|Curso\\Curso.csproj|c:\\workspace\\dotnet\\curso\\curso\\pratica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86A98785-C8A1-A598-9375-8111CDF6981F}|Curso\\Curso.csproj|solutionrelative:curso\\pratica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{86A98785-C8A1-A598-9375-8111CDF6981F}|Curso\\Curso.csproj|c:\\workspace\\dotnet\\curso\\curso\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{86A98785-C8A1-A598-9375-8111CDF6981F}|Curso\\Curso.csproj|solutionrelative:curso\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86A98785-C8A1-A598-9375-8111CDF6981F}|Curso\\Curso.csproj|c:\\workspace\\dotnet\\curso\\curso\\modulo11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86A98785-C8A1-A598-9375-8111CDF6981F}|Curso\\Curso.csproj|solutionrelative:curso\\modulo11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,14 +27,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Conta.cs",
-              "DocumentMoniker": "C:\\workspace\\dotnet\\Curso\\Curso\\Conta.cs",
-              "RelativeDocumentMoniker": "Curso\\Conta.cs",
-              "ToolTip": "C:\\workspace\\dotnet\\Curso\\Curso\\Conta.cs",
-              "RelativeToolTip": "Curso\\Conta.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Title": "Pratica.cs",
+              "DocumentMoniker": "C:\\workspace\\dotnet\\Curso\\Curso\\Pratica.cs",
+              "RelativeDocumentMoniker": "Curso\\Pratica.cs",
+              "ToolTip": "C:\\workspace\\dotnet\\Curso\\Curso\\Pratica.cs",
+              "RelativeToolTip": "Curso\\Pratica.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-20T22:24:24.509Z",
+              "WhenOpened": "2026-03-03T11:46:40.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Modulo11.cs",
+              "DocumentMoniker": "C:\\workspace\\dotnet\\Curso\\Curso\\Modulo11.cs",
+              "RelativeDocumentMoniker": "Curso\\Modulo11.cs",
+              "ToolTip": "C:\\workspace\\dotnet\\Curso\\Curso\\Modulo11.cs",
+              "RelativeToolTip": "Curso\\Modulo11.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T16:29:56.953Z",
               "EditorCaption": ""
             },
             {
@@ -41,7 +58,7 @@
               "RelativeDocumentMoniker": "Curso\\Program.cs",
               "ToolTip": "C:\\workspace\\dotnet\\Curso\\Curso\\Program.cs",
               "RelativeToolTip": "Curso\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-14T15:18:48.128Z",
               "EditorCaption": ""
