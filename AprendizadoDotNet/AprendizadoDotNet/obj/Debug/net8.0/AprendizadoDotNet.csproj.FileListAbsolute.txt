@@ -1,0 +1,15 @@
+C:\workspace\dotnet\AprendizadoDotNet\AprendizadoDotNet\bin\Debug\net8.0\AprendizadoDotNet.exe
+C:\workspace\dotnet\AprendizadoDotNet\AprendizadoDotNet\bin\Debug\net8.0\AprendizadoDotNet.deps.json
+C:\workspace\dotnet\AprendizadoDotNet\AprendizadoDotNet\bin\Debug\net8.0\AprendizadoDotNet.runtimeconfig.json
+C:\workspace\dotnet\AprendizadoDotNet\AprendizadoDotNet\bin\Debug\net8.0\AprendizadoDotNet.dll
+C:\workspace\dotnet\AprendizadoDotNet\AprendizadoDotNet\bin\Debug\net8.0\AprendizadoDotNet.pdb
+C:\workspace\dotnet\AprendizadoDotNet\AprendizadoDotNet\obj\Debug\net8.0\AprendizadoDotNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\dotnet\AprendizadoDotNet\AprendizadoDotNet\obj\Debug\net8.0\AprendizadoDotNet.AssemblyInfoInputs.cache
+C:\workspace\dotnet\AprendizadoDotNet\AprendizadoDotNet\obj\Debug\net8.0\AprendizadoDotNet.AssemblyInfo.cs
+C:\workspace\dotnet\AprendizadoDotNet\AprendizadoDotNet\obj\Debug\net8.0\AprendizadoDotNet.csproj.CoreCompileInputs.cache
+C:\workspace\dotnet\AprendizadoDotNet\AprendizadoDotNet\obj\Debug\net8.0\AprendizadoDotNet.sourcelink.json
+C:\workspace\dotnet\AprendizadoDotNet\AprendizadoDotNet\obj\Debug\net8.0\AprendizadoDotNet.dll
+C:\workspace\dotnet\AprendizadoDotNet\AprendizadoDotNet\obj\Debug\net8.0\refint\AprendizadoDotNet.dll
+C:\workspace\dotnet\AprendizadoDotNet\AprendizadoDotNet\obj\Debug\net8.0\AprendizadoDotNet.pdb
+C:\workspace\dotnet\AprendizadoDotNet\AprendizadoDotNet\obj\Debug\net8.0\AprendizadoDotNet.genruntimeconfig.cache
+C:\workspace\dotnet\AprendizadoDotNet\AprendizadoDotNet\obj\Debug\net8.0\ref\AprendizadoDotNet.dll
